@@ -1,6 +1,6 @@
-# Lab 1
+> Lab 1
 
-## Errors & observations encountered while installing GHDL and GTKWave:
+>> Errors & observations encountered while installing GHDL and GTKWave:
 
 - After advisement from a peer, downloaded Ubuntu to install the programs through WSL.
 - Download process was smooth, except for the process of deciding a username. This was attempted multiple times, culminating in the simple username of "chris" after
