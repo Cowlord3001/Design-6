@@ -7,3 +7,8 @@
   Ubuntu refused the other choices. Further investigation is required to determine why this occured, although it is likely that certain characters are blacklisted
   from the WSL username.
 - Download for GHDL / GTKWave failed using Linux download instructions.
+
+>> Installation through Raspberry Pi:
+
+- After numerous issues during installation attempts through Windows / Ubuntu, decided to instead utilize a Raspberry Pi for GHDL and GTKWave installation.
+- Required significant setup so the Pi could be accessed remotely, as I do not own a monitor.
