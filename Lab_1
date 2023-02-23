@@ -13,5 +13,8 @@
 - After numerous issues during installation attempts through Windows / Ubuntu, decided to instead install GHDL and GTKWave through Windows.
 - Instructions followed in the GHDL GitHub, downloading and extracting the files before moving their subfolders to the new "eda" folder.
 - Environmental variables were added (note: I have had issues with environmental variables in the past, so this should be the first place to debug if issues arise).
-- The command "$ cp ~/dsd/ghdl/*vhdl ." failed on the Command Prompt, creating another roadblock. ***This was solved by using Windows PowerShell.
+- The command "$ cp ~/dsd/ghdl/*vhdl ." failed on the Command Prompt, creating another roadblock.
+      ***This was solved by using Windows PowerShell.
 - The ghdl commands failed on Windows PowerShell.
+      ***After peer review, this was solved by adding "\bin" to the environmental variables in path
+- ghdl -h was successfully run, meaning the rest of this lab should theoretically move forward without issue.
