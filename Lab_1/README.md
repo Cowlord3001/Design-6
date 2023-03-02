@@ -1,5 +1,3 @@
-> Lab 1
-
 >> Errors & observations encountered while installing GHDL and GTKWave:
 
 - After advisement from a peer, downloaded Ubuntu to install the programs through WSL.
