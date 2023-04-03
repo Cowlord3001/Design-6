@@ -4,4 +4,8 @@
 
 >> Ubuntu (re)Installation:
 
-- WSL was reinstalled, using the Ubuntu Linux distribution. 
+- WSL was reinstalled, using the Ubuntu Linux distribution. After peer review, debugging, and research, it was successfully installed.
+
+>> Lab Continuation:
+
+- With Ubuntu now installed, the lab was continued. Unfortunately, the iot file needed to be copied into Ubuntu, resulting in an estimated 6.5 hour download. I instead attempted to clone the repository to Ubuntu, but this timed out.
