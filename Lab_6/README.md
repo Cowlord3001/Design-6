@@ -28,3 +28,7 @@
 
 - Error. The pip3 term was not recognized, nor was pip in general. This is likely due to the original error duing the Node.js installation.
 - The rest of this lab was saved for Raspberry Pi.
+
+>> Lab B6 (Attempt #2):
+
+- The errors in this lab stemmed from the same issues as Lab 3. Since this was resolved by using a Raspberry Pi via [**VNC Viewer**](https://en.wikipedia.org/wiki/RealVNC), the remainder of this lab will be completed in a similar fashion.
