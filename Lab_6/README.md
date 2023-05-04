@@ -32,3 +32,5 @@
 >> Lab B6 (Attempt #2):
 
 - The errors in this lab stemmed from the same issues as Lab 3. Since this was resolved by using a Raspberry Pi via [**VNC Viewer**](https://en.wikipedia.org/wiki/RealVNC), the remainder of this lab will be completed in a similar fashion.
+
+![image](https://user-images.githubusercontent.com/39775736/236353217-d7748514-0773-461d-9a27-b96a5b4360e9.png)
