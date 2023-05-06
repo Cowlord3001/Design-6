@@ -42,4 +42,7 @@ keras_diabetes:
 
 >> Lab 8B - Data Analysis:
 
+![image](https://user-images.githubusercontent.com/39775736/236649144-d258c05f-cd5b-4239-a0e3-11f866def135.png)
+
+![image](https://user-images.githubusercontent.com/39775736/236649164-021425ca-f264-40fa-9ac0-41b097e8b183.png)
 
